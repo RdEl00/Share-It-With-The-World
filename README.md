@@ -1,4 +1,4 @@
-# SHARE IT WITH THE WORLD ~ QR CODE GENERATOR
+## SHARE IT WITH THE WORLD ~ QR CODE GENERATOR
 
 <p align="center">
   <img src="img/illustration.jpeg">
